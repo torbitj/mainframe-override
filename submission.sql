@@ -45,3 +45,4 @@ SELECT * FROM emptystack_projects
 WHERE "code" = 'TAXI';
 
 -- Record project ID and attempt to stop the mainframe
+-- Ran the node command to stop project using data, shutdown successfull
